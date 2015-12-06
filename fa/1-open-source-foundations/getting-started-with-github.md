@@ -1,3 +1,4 @@
+<div dir="rtl">
 # شروع کار با  GitHub 
 
 منبع : [LifeHacker.com](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
@@ -158,3 +159,4 @@ Lifehacker
 # منابع اضافی از GitHub
 
 منابع خوب برای یاد گرفتن git و github (https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+</div>
